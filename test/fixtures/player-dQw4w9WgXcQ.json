@@ -1,0 +1,84 @@
+{
+ "playabilityStatus": {
+  "status": "OK"
+ },
+ "captions": {
+  "playerCaptionsTracklistRenderer": {
+   "captionTracks": [
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=dQw4w9WgXcQ&ei=REDACTED&caps=asr&opi=112496729&xoaf=5&xowf=1&hl=en&ip=REDACTED&ipbits=0&expire=REDACTED&sparams=REDACTED&signature=REDACTED&key=REDACTED&lang=en&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "English"
+       }
+      ]
+     },
+     "languageCode": "en",
+     "isTranslatable": true
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=dQw4w9WgXcQ&ei=REDACTED&caps=asr&opi=112496729&xoaf=5&xowf=1&hl=en&ip=REDACTED&ipbits=0&expire=REDACTED&sparams=REDACTED&signature=REDACTED&key=REDACTED&kind=asr&lang=en&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "English (auto-generated)"
+       }
+      ]
+     },
+     "languageCode": "en",
+     "kind": "asr",
+     "isTranslatable": true
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=dQw4w9WgXcQ&ei=REDACTED&caps=asr&opi=112496729&xoaf=5&xowf=1&hl=en&ip=REDACTED&ipbits=0&expire=REDACTED&sparams=REDACTED&signature=REDACTED&key=REDACTED&lang=de-DE&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "German (Germany)"
+       }
+      ]
+     },
+     "languageCode": "de-DE",
+     "isTranslatable": true
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=dQw4w9WgXcQ&ei=REDACTED&caps=asr&opi=112496729&xoaf=5&xowf=1&hl=en&ip=REDACTED&ipbits=0&expire=REDACTED&sparams=REDACTED&signature=REDACTED&key=REDACTED&lang=ja&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "Japanese"
+       }
+      ]
+     },
+     "languageCode": "ja",
+     "isTranslatable": true
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=dQw4w9WgXcQ&ei=REDACTED&caps=asr&opi=112496729&xoaf=5&xowf=1&hl=en&ip=REDACTED&ipbits=0&expire=REDACTED&sparams=REDACTED&signature=REDACTED&key=REDACTED&lang=pt-BR&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "Portuguese (Brazil)"
+       }
+      ]
+     },
+     "languageCode": "pt-BR",
+     "isTranslatable": true
+    },
+    {
+     "baseUrl": "https://www.youtube.com/api/timedtext?v=dQw4w9WgXcQ&ei=REDACTED&caps=asr&opi=112496729&xoaf=5&xowf=1&hl=en&ip=REDACTED&ipbits=0&expire=REDACTED&sparams=REDACTED&signature=REDACTED&key=REDACTED&lang=es-419&fmt=srv3",
+     "name": {
+      "runs": [
+       {
+        "text": "Spanish (Latin America)"
+       }
+      ]
+     },
+     "languageCode": "es-419",
+     "isTranslatable": true
+    }
+   ]
+  }
+ }
+}
